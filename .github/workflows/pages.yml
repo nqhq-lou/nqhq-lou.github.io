@@ -309,9 +309,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+# Footer
+# © 2022 GitHub, Inc.
+# Footer navigation
+# Terms
+# Privacy
+# Security
